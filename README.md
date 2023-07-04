@@ -1,2 +1,3 @@
 # Picsimlab
 LCD and A/D Converter (ADC) concepts on Picsimlab with PIC18F4620
+I made a miniature simulation of ultimate frisbee match. There will be 2 teams where each consists of 2 players. The aim for each player is either to throw the frisbee to its team mate, or to catch the frisbee thrown by any player. In this way, they will either increase the score of their own team or prevent the other team to increase their scores. I simulated the players and frisbee movements on LCD, showed the scores on 7-segment display, gave some necessary commands from the push buttons and gamepad and adjusted the speed of the game with ADC.
